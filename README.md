@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is will and I am big advocate for open source projects. Just about every project I have started to is open source.   
+My name is will and I am big advocate for open source projects. Just about every project I have started to date (in my spare time) is open source.   
 I am currently working on a casbin plugin for the jetbrains products stay tuned!
 
 ## Latest Web Creation
