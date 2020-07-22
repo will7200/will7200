@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is will and I am big advocate for open source projects. Just about every project I have started to is open source.   
+I am currently working on a casbin plugin for the jetbrains products stay tuned!
