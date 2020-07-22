@@ -22,4 +22,4 @@ I am currently working on a casbin plugin for the jetbrains products stay tuned!
 ### Introducing Word Bites Solver [link](https://will7200.github.io/WordBites-Solver/)
 I have been enjoying the new game word-bites on game pigeon. They implemented a new feature that gives all the wordsWorker possible on the game that is really cool. The only downside is that is quite expensive to utilize. So i made this app to help with that. There are multiple dictionary that the user can choose from to filter out the words possible.  
 
-![Work Bites Solver App](WordBitesSolver-Example.PNG)
+![Work Bites Solver App](https://raw.githubusercontent.com/will7200/will7200/master/WordBitesSolver-Example.PNG)
