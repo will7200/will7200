@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is will and I love building things.
+Hi my name is will and I have a passion for bringing ideas to life with software.
+
 ## Latest Jetbrains Plugin
 ### Introducing Casbin Plugin for Intellij Products [link](https://github.com/will7200/casbin-idea-plugin)
 I noticed that there weren't any plugins for casbin for the Intellij products line. As an avid user of their product line I found an opportunity to finally write a plugin. Please do checkout it out and any feedback is very much appreciated.
